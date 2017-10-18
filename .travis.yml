@@ -5,7 +5,7 @@ python:
   - "3.4"
 
 script:
-<<<<<<< HEAD
+
 #  - python hello.py
 #  - python helloJustin.py
    - python helloChris.py
