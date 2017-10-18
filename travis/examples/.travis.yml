@@ -6,7 +6,6 @@ python:
 
 script:
   - python hello.py
-  - python helloLori.py
   
 #before_install:
 # - pip install coverage
