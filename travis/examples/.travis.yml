@@ -5,7 +5,6 @@ python:
   - "3.4"
 
 script:
-  - python hello.py
   - python helloLori.py
   
 #before_install:
