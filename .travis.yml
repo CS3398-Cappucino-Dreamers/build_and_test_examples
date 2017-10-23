@@ -10,9 +10,9 @@ script:
 #  - python helloJustin.py
 #   - python helloChris.py
 #  - python helloMichelle.py
-#   - python helloBenHunt.py
-    -python helloLori.py
-  
+#  - python helloBenHunt.py
+   - python helloLori.py
+   
 #before_install:
 # - pip install coverage
 #  - cd python
